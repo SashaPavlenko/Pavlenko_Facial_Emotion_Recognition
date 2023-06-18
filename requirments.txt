@@ -1,0 +1,4 @@
+skbuild (pip install scikit-build)
+cv2 (pip install opencv-python)
+torch (pip install torch)
+
